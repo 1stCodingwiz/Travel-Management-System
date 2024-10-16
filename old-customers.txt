@@ -1,0 +1,7 @@
+
+Customer ID: 123
+Name: Bubai
+Age: 25
+Mobile Number: 911
+Address: Hyd
+Gender: Male
